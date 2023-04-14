@@ -1,0 +1,185 @@
+# NAME: Emby
+# UPDATED: 2023-04-07
+
+
+
+payload:
+ ########拥有########
+ # CSN
+ - DOMAIN-SUFFIX, kr2.dooop.eu.org
+ - IP-CIDR, 152.67.213.35/32
+ 
+ 
+ ########公益服########
+ # 终点站
+ - DOMAIN-SUFFIX, pub1.emby.wtf
+ - DOMAIN-SUFFIX, pub2.emby.wtf
+ - DOMAIN-SUFFIX, pub3.emby.wtf
+ - DOMAIN-SUFFIX, pub4.emby.wtf
+ # Ody
+ - DOMAIN-SUFFIX, cf.odysseyplus.site
+ - DOMAIN-SUFFIX, us.odysseyplus.site
+ - DOMAIN-SUFFIX, kr.odysseyplus.site
+ - DOMAIN-SUFFIX, jp.odysseyplus.site
+ - DOMAIN-SUFFIX, jp2.odysseyplus.site
+ # MisakaF
+ - DOMAIN-SUFFIX, cf1.misakaf.org
+ - DOMAIN-SUFFIX, cf2.misakaf.org
+ - DOMAIN-SUFFIX, cf3.misakaf.org
+ - DOMAIN-SUFFIX, cdn.misakaf.org
+ # 卷毛鼠
+ - DOMAIN-KEYWORD, jmsooo
+ - DOMAIN-SUFFIX, cf.jmsooo.com
+ - DOMAIN-SUFFIX, cf1.jmsooo.com
+ - DOMAIN-SUFFIX, ha.jmsooo.com
+ - DOMAIN-SUFFIX, aws.jmsooo.com
+ - DOMAIN-SUFFIX, hinet.jmsooo.com
+ - DOMAIN-SUFFIX, agahk1.jmsooo.com
+ - DOMAIN-SUFFIX, agasg1.jmsooo.com
+ - DOMAIN-SUFFIX, agajp1.jmsooo.com
+ # 不给看
+ - DOMAIN-SUFFIX, emby.pro
+ # 纸片人
+ - DOMAIN-SUFFIX, embyplus.org
+ # CC
+ - DOMAIN-KEYWORD, ccemby
+ - DOMAIN-SUFFIX, cc.ccemby.tk 
+ - DOMAIN-SUFFIX, dx1.ccemby.ga
+ - DOMAIN-SUFFIX, dx2.ccemby.ga
+ - DOMAIN-SUFFIX, dx3.ccemby.ga
+ # Orange
+ - DOMAIN-SUFFIX, cf.embytv.cf
+ - DOMAIN-SUFFIX, cdn.embytv.cf
+ # Peach桃子
+ - DOMAIN-SUFFIX, embymv.tk
+ - DOMAIN-SUFFIX, kr.embymv.tk
+ - DOMAIN-SUFFIX, jp.embymv.tk
+ # Polo
+ - DOMAIN-SUFFIX, cu.poloemby.xyz
+ - DOMAIN-SUFFIX, df.poloemby.xyz
+ - DOMAIN-SUFFIX, sp.poloemby.xyz
+ # 星云
+ - DOMAIN-SUFFIX, nebula-emby.com
+ - DOMAIN-SUFFIX, web.nebula-emby.com
+ - DOMAIN-SUFFIX, direct.nebula-emby.com
+ #- DOMAIN-SUFFIX, api.nebula-emby.com
+ # 垃圾影音
+ - DOMAIN-SUFFIX, cf.gtlx.org
+ # MJJ
+ - DOMAIN-SUFFIX, de.mjjemby.org
+ - DOMAIN-SUFFIX, cf.mjjemby.org
+ - DOMAIN-SUFFIX, sg01.mjjemby.org
+ - DOMAIN-SUFFIX, jp01.mjjemby.org
+ - DOMAIN-SUFFIX, jp02.mjjemby.org
+ - DOMAIN-SUFFIX, kr02.mjjemby.org
+ # Studyfun
+ - DOMAIN-SUFFIX, cf.studyfun.live
+ - DOMAIN-SUFFIX, cdn.studyfun.live
+ - DOMAIN-SUFFIX, cdn1.studyfun.live
+ # 蓝海
+ - DOMAIN-SUFFIX, bsem.ddns.me
+ - DOMAIN-SUFFIX, emby-pub1.blueseacdn.com
+ - DOMAIN-SUFFIX, www.blueseamusics.com
+ # hxd
+ - DOMAIN-SUFFIX, bili.bili.rip
+ - DOMAIN-SUFFIX, embyjp.bili.rip
+ # Paul
+ - DOMAIN-SUFFIX, emby.imetyou.top
+ - DOMAIN-SUFFIX, cf.imetyou.top
+ - DOMAIN-SUFFIX, kr.imetyou.top
+ - DOMAIN-SUFFIX, cdn.imetyou.top
+ # Dv
+ - DOMAIN-SUFFIX, emby.lzlz.cc
+ - IP-CIDR, 140.238.10.97/32
+ # 二次元
+ - DOMAIN-SUFFIX, media.nijigem.by
+ # AC
+ - DOMAIN-SUFFIX, play.acemby.org
+ - DOMAIN-SUFFIX, cflix.acemby.org
+ # NME
+ - DOMAIN-SUFFIX, film.goodisp.org
+ - DOMAIN-SUFFIX, film.chinaisp.org
+ # Misty
+ - DOMAIN-SUFFIX, misty.ltd
+ # infinityfly
+ - DOMAIN-SUFFIX, infinityfly.top
+ # EmbyHub
+ - DOMAIN-SUFFIX, emby.ednovas.org
+ # Viper
+ - DOMAIN-SUFFIX, emby.agon.cf
+ # 莫高雷
+ - DOMAIN-SUFFIX, one.mulgore.net
+ - DOMAIN-SUFFIX, two.mulgore.net
+ # 佛系
+ - DOMAIN-SUFFIX, 1.4545.cf
+ # 拨浪鼓
+ - DOMAIN-SUFFIX, emby.speedx.one
+ # 星光
+ - DOMAIN-SUFFIX, sana.emby.eu.org
+ # 小新影视
+ - DOMAIN-SUFFIX, 888.881075.xyz
+ # Plus影业
+ - DOMAIN-SUFFIX, emby.plusmedia.site
+ - DOMAIN-SUFFIX, emby-cf.plusmedia.site
+ - DOMAIN-SUFFIX, emby.xeton.dev
+ - DOMAIN-SUFFIX, jellyfin.xeton.dev
+ - DOMAIN-SUFFIX,movie.xeton.dev
+ - DOMAIN-SUFFIX, servers.xeton.dev
+ # 魔仙堡-猫熊
+ - DOMAIN-SUFFIX, emby.kim
+ # 品云
+ - DOMAIN-SUFFIX, embyplus.club
+ # 新瓜
+ - DOMAIN-SUFFIX, singularity.deja-vu.beauty
+ # 谷歌盘
+ - DOMAIN-SUFFIX, cf.watchemby.net
+ - DOMAIN-SUFFIX, emby.wiri.tk
+ - DOMAIN-SUFFIX, emby-1.wiri.tk
+ - DOMAIN-SUFFIX, emby-2.wiri.tk
+ - DOMAIN-SUFFIX, emby-3.wiri.tk
+ 
+ 
+ ########公费服########
+ # 神农
+ - DOMAIN-SUFFIX, emby.shennong.date
+ # 水母乐园
+ - DOMAIN-SUFFIX, ws.hellyfin.asis
+ #- DOMAIN-SUFFIX, s2.amazing910.top
+ # 红尘
+ - DOMAIN-SUFFIX, av.happyav.eu.org
+ # 流量库
+ - IP-CIDR, 140.238.30.246/32
+ # 卡戎
+ - DOMAIN-SUFFIX, play.charontv.com
+ # 垃圾影音
+ - DOMAIN-SUFFIX, emby.ml
+ 
+ 
+ ########机场服########
+ # FLAREIX
+ - DOMAIN-SUFFIX, emby.vip
+ # hxd机场服
+ - DOMAIN-SUFFIX, emby.10086.help
+ 
+ 
+ ########私服########
+ # 23Studioa
+ #- DOMAIN-SUFFIX, 21s.casacam.net
+ - DOMAIN-SUFFIX, 23s.casacam.net
+ # 水泊梁山
+ - DOMAIN-SUFFIX, cf.shuipo.lol
+ # Nyamedia
+ - DOMAIN-SUFFIX, ember.bangumi.ca
+ # Foxcoo
+ - DOMAIN-SUFFIX, foxcoo.top
+ - IP-CIDR, 138.2.9.40/32
+ # 瑟瑟
+ - DOMAIN-SUFFIX, animecf.emby77.cf
+ - DOMAIN-SUFFIX, cf.emby77.cf
+ # SuQingHen
+ - DOMAIN-SUFFIX, emby.animehome.vip
+ # 卡卡
+ - DOMAIN-SUFFIX, emby.9191001.xyz
+ # Temby
+ - DOMAIN-SUFFIX, temby.285286.xyz
+ 
