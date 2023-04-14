@@ -1,0 +1,181 @@
+# NAME: Emby
+# UPDATED: 2023-04-07
+
+########拥有########
+# CSN
+HOST-SUFFIX, kr2.dooop.eu.org, CSN 
+IP-CIDR, 152.67.213.35/32, CSN
+
+########公益服########
+# 终点站
+HOST-SUFFIX, pub1.emby.wtf, 1妹
+HOST-SUFFIX, pub2.emby.wtf, 2妹
+HOST-SUFFIX, pub3.emby.wtf, 3妹
+HOST-SUFFIX, pub4.emby.wtf, 4妹
+# Ody
+HOST-SUFFIX, cf.odysseyplus.site, Cloudflare
+HOST-SUFFIX, us.odysseyplus.site, 美西
+HOST-SUFFIX, kr.odysseyplus.site, 韩国
+HOST-SUFFIX, jp.odysseyplus.site, 日本
+HOST-SUFFIX, jp2.odysseyplus.site, 日本2
+# MisakaF
+HOST-SUFFIX, cf1.misakaf.org, MisakaF
+HOST-SUFFIX, cf2.misakaf.org, MisakaF
+HOST-SUFFIX, cf3.misakaf.org, MisakaF
+HOST-SUFFIX, cdn.misakaf.org, MisakaF
+# 卷毛鼠
+HOST-KEYWORD, jmsooo, 卷毛鼠
+HOST-SUFFIX, cf.jmsooo.com, 卷毛鼠
+HOST-SUFFIX, cf1.jmsooo.com, 卷毛鼠
+HOST-SUFFIX, ha.jmsooo.com, 卷毛鼠
+HOST-SUFFIX, aws.jmsooo.com, 卷毛鼠
+HOST-SUFFIX, hinet.jmsooo.com, 卷毛鼠
+HOST-SUFFIX, agahk1.jmsooo.com, 卷毛鼠
+HOST-SUFFIX, agasg1.jmsooo.com, 卷毛鼠
+HOST-SUFFIX, agajp1.jmsooo.com, 卷毛鼠
+# 不给看
+HOST-SUFFIX, emby.pro, 不给看
+# CC
+HOST-KEYWORD, ccemby, CC
+HOST-SUFFIX, cc.ccemby.tk, CC
+HOST-SUFFIX, dx1.ccemby.ga, CC
+HOST-SUFFIX, dx2.ccemby.ga, CC
+HOST-SUFFIX, dx3.ccemby.ga, CC
+# Orange
+HOST-SUFFIX, cf.embytv.cf, Orange
+HOST-SUFFIX, cdn.embytv.cf, Orange
+# Peach桃子
+HOST-SUFFIX, embymv.tk, Peach
+HOST-SUFFIX, kr.embymv.tk, Peach
+HOST-SUFFIX, jp.embymv.tk, Peach
+# Polo
+HOST-SUFFIX, cu.poloemby.xyz, Polo
+HOST-SUFFIX, df.poloemby.xyz, Polo
+HOST-SUFFIX, sp.poloemby.xyz, Polo
+# 星云
+HOST-SUFFIX, nebula-emby.com, 星云
+HOST-SUFFIX, web.nebula-emby.com, 签到面板
+HOST-SUFFIX, direct.nebula-emby.com, 直连
+#HOST-SUFFIX, api.nebula-emby.com, 签到接口
+# 垃圾影音
+HOST-SUFFIX, cf.gtlx.org, 垃圾影音
+# 纸片人
+HOST-SUFFIX, embyplus.org, 纸片人
+# MJJ
+HOST-SUFFIX, de.mjjemby.org, MJJ
+HOST-SUFFIX, cf.mjjemby.org, MJJ
+HOST-SUFFIX, sg01.mjjemby.org, MJJ
+HOST-SUFFIX, jp01.mjjemby.org, MJJ
+HOST-SUFFIX, jp02.mjjemby.org, MJJ
+HOST-SUFFIX, kr02.mjjemby.org, MJJ
+# Studyfun
+HOST-SUFFIX, cf.studyfun.live, Studyfun
+HOST-SUFFIX, cdn.studyfun.live, Studyfun
+HOST-SUFFIX, cdn1.studyfun.live, Studyfun
+#蓝海
+HOST-SUFFIX, bsem.ddns.me, 蓝海
+HOST-SUFFIX, emby-pub1.blueseacdn.com, 蓝海
+HOST-SUFFIX, www.blueseamusics.com, 蓝海
+# Hxd
+HOST-SUFFIX, bili.bili.rip, Hxd
+HOST-SUFFIX, embyjp.bili.rip, Hxd
+# Paul
+HOST-SUFFIX, emby.imetyou.top, Paul
+HOST-SUFFIX, cf.imetyou.top, Paul
+HOST-SUFFIX, kr.imetyou.top, Paul
+HOST-SUFFIX, cdn.imetyou.top, Paul
+# Dv
+HOST-SUFFIX, emby.lzlz.cc, Dv
+IP-CIDR, 140.238.10.97/32, Dv
+# 二次元
+HOST-SUFFIX, media.nijigem.by, 二次元
+# AC
+HOST-SUFFIX, play.acemby.org, ACEmby
+HOST-SUFFIX, cflix.acemby.org, ACEmby
+# NME
+HOST-SUFFIX, film.goodisp.org, NMEmby
+HOST-SUFFIX, film.chinaisp.org, NMEmby
+# Misty
+HOST-SUFFIX, misty.ltd, Misty
+# infinityfly
+HOST-SUFFIX, infinityfly.top, infinityfly
+# EmbyHub
+HOST-SUFFIX, emby.ednovas.org, Ednovas
+# Viper
+HOST-SUFFIX, emby.agon.cf, Viper
+# 莫高雷
+HOST-SUFFIX, one.mulgore.net, 1服
+HOST-SUFFIX, two.mulgore.net, 2服
+# 流量库
+IP-CIDR, 140.238.30.246/32, 流量库
+# 拨浪鼓
+HOST-SUFFIX, emby.speedx.one, 拨浪鼓
+# 佛系
+HOST-SUFFIX, 1.4545.cf, 佛系
+# 星光
+HOST-SUFFIX, sana.emby.eu.org, 星光
+# 小新影视
+HOST-SUFFIX, 888.881075.xyz, 小新影视
+# Plus影业
+HOST-SUFFIX, emby.plusmedia.site, 电信直连
+HOST-SUFFIX, emby-cf.plusmedia.site, CF
+HOST-SUFFIX, emby.xeton.dev, 备用1
+HOST-SUFFIX, jellyfin.xeton.dev, 备用2
+HOST-SUFFIX, movie.xeton.dev, 备用3
+HOST-SUFFIX, servers.xeton.dev, 备用4
+# 谷歌盘
+HOST-SUFFIX, cf.watchemby.net, CF
+HOST-SUFFIX, emby.wiri.tk, 洛杉矶
+HOST-SUFFIX, emby-1.wiri.tk, 欧洲直连
+HOST-SUFFIX, emby-2.wiri.tk, 欧洲直连2
+HOST-SUFFIX, emby-3.wiri.tk, 新加坡直连2
+# 魔仙堡-猫熊
+HOST-SUFFIX, emby.kim, 主线路
+# 品云
+HOST-SUFFIX, embyplus.club, 主线路
+# 新瓜
+HOST-SUFFIX, singularity.deja-vu.beauty, 主线路
+
+
+########公费服########
+# 水母乐园
+HOST-SUFFIX, ws.hellyfin.asis, 水母乐园
+#HOST-SUFFIX, s2.amazing910.top, 水母乐园
+# 红尘
+HOST-SUFFIX, av.happyav.eu.org, 红尘
+# 神农
+HOST-SUFFIX, emby.shennong.date, 神农
+# 卡戎
+HOST-SUFFIX, play.charontv.com, 卡戎
+# 垃圾影音
+HOST-SUFFIX, emby.ml, 垃圾公费
+
+
+########机场服########
+# Flareix
+HOST-SUFFIX, emby.vip, 三号机
+# Hxd机场服
+HOST-SUFFIX, emby.10086.help, Hxd机场服
+
+
+########私服########
+# 23Studioa
+#HOST-SUFFIX, 21s.casacam.net, 23Studioa
+HOST-SUFFIX, 23s.casacam.net, 23Studioa
+# 水泊梁山
+HOST-SUFFIX, cf.shuipo.lol, 水泊梁山
+# Nyamedia
+HOST-SUFFIX, ember.bangumi.ca, Nyamedia
+HOST-SUFFIX, access.ap01.emby.bangumi.ca, 直连
+# 瑟瑟
+HOST-SUFFIX, animecf.emby77.cf, 托马斯
+HOST-SUFFIX, cf.emby77.cf, 托马斯
+# Foxcoo
+HOST-SUFFIX, foxcoo.top, Foxcoo
+IP-CIDR, 138.2.9.40/32, Foxcoo
+# SuQingHen
+HOST-SUFFIX, emby.animehome.vip, SuQingHen
+# 卡卡
+HOST-SUFFIX, emby.9191001.xyz, 卡卡
+# Temby
+HOST-SUFFIX, temby.285286.xyz, Temby
